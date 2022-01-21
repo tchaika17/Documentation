@@ -1,0 +1,21 @@
+Structure of a bug report 
+
+ID
+
+Summary (Описание)
+
+Severity (Серьезность)
+
+Precondition (Предусловие)
+
+Steps to reproduce (Шаги воспроизведения)
+
+Actual result (Фактический результат)
+
+Expected result (Ожидаемый результат)
+
+Attachments (Вложения)
+
+Environment (Окружение)
+
+Author (Автор)
